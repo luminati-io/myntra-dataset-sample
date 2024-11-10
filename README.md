@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Myntra products</h2>
 
-![Myntra dataset header](https://github.com/luminati-io/Myntra-dataset-sample/blob/main/Myntra-dataset.png)
+![Myntra dataset header](https://github.com/luminati-io/myntra-dataset-sample/blob/main/Myntra-datasets.png)
 
 A Myntra dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
